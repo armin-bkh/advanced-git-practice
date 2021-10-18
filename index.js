@@ -1,5 +1,5 @@
 console.log("hi there...");
 alert("how are you");
 console.log("reza")
-console.log("soroush")
+alert('go go')
 console.log("majid")
